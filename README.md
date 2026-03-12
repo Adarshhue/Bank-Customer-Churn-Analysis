@@ -66,6 +66,3 @@ LinkedIn: https://www.linkedin.com/in/adarsh-t-p-3032ba391/
 ![Data Analysis](https://img.shields.io/badge/Project-Data%20Analysis-blue)
 ![Dashboard](https://img.shields.io/badge/Type-Dashboard-green)
 
-⭐ If you like this project
-
-Give it a star on GitHub ⭐
