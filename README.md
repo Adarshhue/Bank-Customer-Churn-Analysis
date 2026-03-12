@@ -55,3 +55,13 @@ This dashboard helps banks:
 - Identify high-risk customer segments
 - Improve customer retention strategies
 - Understand churn behavior across demographics and regions
+
+## Author
+
+Adarsh T P  
+Aspiring Data Analyst  
+LinkedIn: https://www.linkedin.com/in/adarsh-t-p-3032ba391/
+
+![Power BI](https://img.shields.io/badge/Tool-PowerBI-yellow)
+![Data Analysis](https://img.shields.io/badge/Project-Data%20Analysis-blue)
+![Dashboard](https://img.shields.io/badge/Type-Dashboard-green)
